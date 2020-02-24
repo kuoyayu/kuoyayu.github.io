@@ -1,0 +1,8 @@
+---
+layout: home
+---
+
+<figure class="image is-128x128">
+  <img class="is-rounded" src="profile-pic-resized.jpg">
+</figure>
+
