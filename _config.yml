@@ -7,12 +7,4 @@ description: short description
 baseurl: ""
 url: "https://xn--phy722di6d.xn--kpry57d"
 
-permalink: pretty
-
-markdown: kramdown
-
-exclude:
-   - Gemfile
-   - Gemfile.lock
-
 remote_theme: jekyll-octopod/jekyll-bulma
